@@ -209,6 +209,8 @@ $(document).ready(function ($) {
   });
 });
 
+// index page poppup div functionality 
+
 const closeButton = document.querySelector(".closeButton");
 const alertAbsolute = document.querySelector(".alert-absolute");
 
