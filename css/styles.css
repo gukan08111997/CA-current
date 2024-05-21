@@ -20,12 +20,12 @@ light-orange:#FFD099; */
   box-sizing: border-box;
   font-family: "Merriweather", serif;
   /* font-family: "Mulish", sans-serif; */
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 400;
+  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
 }
 body {
   font-family: "Merriweather", serif;
-  background: #e3f5f5;
+  background: #fdffff;
 }
 .remove{
   display: none;
@@ -124,7 +124,6 @@ span,
 .navbar-section a,
 .navbar-section .container-fluid .nav-link.active {
   color: #fff;
-  font-size: 1.5vw;
 }
 
 .dynamic-text,
@@ -438,7 +437,6 @@ h3 a:link {
 .testimonial-section {
   background-image: linear-gradient(to right bottom, #01bbef80, #2b349980), url(../images/testimonial-bg.webp);
   padding: 5%;
-  font-size: 1.2vw;
 }
 .testimonial-section h2 {
   color: rgba(255, 255, 255, 1);
@@ -588,7 +586,7 @@ h3 a:link {
   text-align: left;
 }
 .contact-section form > div > label {
-  flex-basis: 30%;
+  flex-basis: 25%;
   text-align: left;
 }
 .contact-section form > div > input,
